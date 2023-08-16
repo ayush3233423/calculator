@@ -1,0 +1,16 @@
+
+
+.button{
+    border: 2px solid blue;
+}
+
+.container{
+    height: 70%;
+    width: 40%;
+    text-align: center;
+    display: grid;
+}
+
+.row{
+    margin: 8px 0;
+}
